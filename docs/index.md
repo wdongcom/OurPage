@@ -31,7 +31,7 @@
 ## 代码管理
   **原型设计:** [慕客RP]() | [刀客]()
 
-**代码仓库：**	Gitee.com | Git.exe | SourceTree |
+**代码仓库：**	Gitee.com | Github.com | Git.exe | SourceTree |
 [Watt Toolkit 「原名 Steam++」 GitHub加速](https://steampp.net/)
 
 **部署环境：**	BT-Panel | PHPStudy | Tomcat | Docker | Python | NodeJS
